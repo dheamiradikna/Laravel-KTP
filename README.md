@@ -17,7 +17,6 @@ Aplikasi manajemen KTP (Kartu Tanda Penduduk) menggunakan framework Laravel deng
 1. Clone repositori ini:
    ```
    git clone https://github.com/dheamiradikna/Laravel-KTP.git
-   cd Laravel-KTP-CRUD
    ```
 
 2. Install dependensi PHP:
